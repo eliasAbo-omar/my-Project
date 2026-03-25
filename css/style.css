@@ -1,0 +1,42 @@
+body {
+  color: black;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
+
+h4 {
+  color: red;
+}
+
+h5 {
+  color: red;
+}
+
+h6 {
+  color: red;
+}
+
+::-webkit-scrollbar {
+  scroll-behavior: smooth;
+}
+
+img {
+  width: 20px;
+  height: 20px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
